@@ -1,0 +1,5 @@
+.CartWidget {
+    display: flex;
+    justify-content: right;
+    margin-right: 20px;
+}
